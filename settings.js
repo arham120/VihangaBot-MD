@@ -1,4 +1,4 @@
-//═══════════════════════════════════════════════════════//
+MI//═══════════════════════════════════════════════════════//
 //If you want to recode, reupload
 //or copy the codes/script,
 //pls give credit
@@ -26,7 +26,7 @@ global.premium = ['923136744239']
 global.ownernomer = '923136744239'
 global.ownername = '៚ᴠɪʜͥᴀɴͣɢͫᴀ ʏᴛ͢⁸⁵⁴¹⃟✦⃝̮̮〽️'
 global.botname = 'bad boy BOT'
-global.footer = 'bad boy MD'
+global.footer = 'bad boy g MD'
 global.cap = '*Genarated By bad boy Md*'
 global.ig = 'https://github.com/vihangabot'
 global.region = 'Sri Lanka, Sabaragamuwa, Embilipitiya'
